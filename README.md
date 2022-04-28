@@ -46,6 +46,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Monalisa](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@monascape](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@monascape](https://www.twitter.com/yourusername)
 
