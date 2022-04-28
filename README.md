@@ -34,13 +34,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-How to make rounded borders using border radius purely using CSS.
 
+How to make the design using only CSS and HTML with div, making rounded borders.
 
 ### Continued development
 
-Improve the coding and perhaps redo it using a framework to make it easier and more responsive.
-
+Improve my code and redo it eventually using different techniques to make it more responsive.
 
 ## Author
 
