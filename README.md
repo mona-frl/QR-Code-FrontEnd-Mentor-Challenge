@@ -34,17 +34,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+How to make rounded borders using border radius purely using CSS.
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Improve the coding and perhaps redo it using a framework to make it easier and more responsive.
 
 
 ## Author
 
-- Website - [Monalisa](https://www.your-site.com)
-- Frontend Mentor - [@monascape](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@monascape](https://www.twitter.com/yourusername)
+- LinkedIn - [Monalisa](https://www.linkedin.com/in/monascape/)
+- Frontend Mentor - [@monascape](https://www.frontendmentor.io/profile/monascape)
+- Twitter - [@monascape](https://www.twitter.com/monascape)
 
