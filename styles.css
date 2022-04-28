@@ -33,3 +33,11 @@ p {
     padding-left: 20px;
     padding-right:20px;
 }
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
